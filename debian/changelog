@@ -1,0 +1,6 @@
+mpv (2:2025.02.20.e32beaa0db) jammy; urgency=medium
+
+  * local build with ffmpeg 2:2025.02.10.04f5eaa11c,
+    libass 2:2025.01.31.1b69955, libplacebo 2:2025.02.20.dcc9c0db
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Fri, 21 Feb 2025 18:35:52 +0800
