@@ -50,6 +50,7 @@ mpv:
 
 .PHONY: download
 download:
+	./use-mpv-release
 	./update
 
 .PHONY: deb
