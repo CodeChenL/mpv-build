@@ -51,6 +51,7 @@ mpv:
 .PHONY: download
 download:
 	./update
+	printf "%s\n" -Dlibmpv=false > mpv_options
 
 .PHONY: deb
 deb: debian lib
